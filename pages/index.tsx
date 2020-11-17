@@ -4,6 +4,9 @@ import Link from 'next/link'
 import Header from '../components/Header/Header'
 import Caroussel from '../components/Caroussel'
 import Wrapper from '../components/Wrapper/Wrapper'
+import Footer from '../components/Footer'
+
+import InstagramSection from '../components/InstagramSection'
 
 
 export default function Home() {
@@ -151,8 +154,39 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
 
             <img src="/technician.svg" alt="técnico especialista"/>
           </section>
+
+          <section className = {styles.contact_section}>
+            <div className = {styles.contact_title_container} >
+              <h4>
+                FALE <b> CONOSCO </b> 
+                <img src="/callPhoneIcon.svg" alt="fale conosco"/>
+              </h4>
+
+              <p>
+              Qualquer dúvida ou sugestão, <br/>
+              estamos aqui para ajudar. <br/>
+              Entraremos em contato o mais breve possível.
+              </p>
+            </div>
+
+            <form action="/mail.php" method="post">
+              <label>Seu Nome ( * )<input type="text"/></label>
+              <label>Seu Celular ( * )<input type="text"/></label>
+              <label>Seu Email ( * )<input type="text"/></label>
+              <label>Sua Mensagem:<textarea/></label>
+
+              <button type = 'submit' >
+                ENVIAR
+              </button>
+            </form>
+
+          </section>
+
+          <InstagramSection/>
         </Wrapper>
       </main>
+      
+      <Footer/>
     </div>
   )
 }
