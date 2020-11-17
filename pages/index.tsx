@@ -66,9 +66,93 @@ export default function Home() {
               </a>
             </Link>
           </section>
+
+          <section className = {styles.services_section}>
+            <h2>
+              NOSSOS <b>SERVIÇOS</b>
+            </h2>
+
+            <p>
+            Visita Técnica - Instalação e Infra-Estrutura - Projetos,<br/>
+Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<br/>
+ VRF e muito mais
+            </p>
+
+            <div className = {styles.services_container}>
+              <div className = {styles.service}>
+                 <img src="/arHome.svg" alt="instalação e infraestrutura de ar condicionados"/>
+                  <div className = {styles.text_box}>
+                     <h3>INSTALAÇÃO<br/> <b>E INFRAESTRUTURA</b></h3>
+                     <p>Elaboramos sua <b>instalação</b> do <br/> zero até a finalização conforme <br/> as normas <b>ABNT</b></p>
+                      <Link href = '#' passHref>
+                         <a>CONHECER</a>
+                      </Link> 
+                  </div> 
+              </div>
+              
+              <div className = {styles.service}>
+                 <img src="/instalacaoHome.svg" alt="instalação e infraestrutura de ar condicionados"/>
+                  <div className = {styles.text_box}>
+                     <h3>MANUTENÇÃO <br/> <b>AR CONDICIONADO</b></h3>
+                     <p>Aumente a vida util do seu <br/> <b>ar condicionado!</b> vamos enviar um <b>especialista</b> até você</p>
+                      <Link href = '#' passHref>
+                         <a>CONHECER</a>
+                      </Link> 
+                  </div> 
+              </div>
+              
+            </div>
+          </section>
+        </Wrapper>
+
+        <section className = {styles.brands_section}>
+          <div className = {styles.wrapper_container} >
+          <h2>
+              Somos credenciados por <br/> grandes marcas como <br/> LG, Samsung, Fugitsu e <br/> muito <a href = '#' > <span><img src="/plus.svg" alt="mais" className = {styles.plus}/></span> </a>
+              </h2>
+
+              <img src="/greeAirHome.svg" alt="Ar condicionado gree" className = {styles.gree} />
+          </div>
+        </section>
+
+        <Wrapper>
+          <section className = {styles.statistics_section}>
+            <div className = {styles.numbers_container}>
+              <div className = {styles.projects}>
+                <span>
+                  6640+
+                </span>
+
+                <h4>
+                  PROJETOS
+                </h4>
+              </div>
+
+              <div className = {styles.clients}>
+                <span>
+                  6640+
+                </span>
+
+                <h4>
+                  CLIENTES
+                </h4>
+              </div>
+
+              <div className = {styles.satisfaction}>
+                <span>
+                  100%
+                </span>
+
+                <h4>
+                  SATISFAÇÃO
+                </h4>
+              </div>
+            </div>
+
+            <img src="/technician.svg" alt="técnico especialista"/>
+          </section>
         </Wrapper>
       </main>
-      
     </div>
   )
 }
