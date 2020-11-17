@@ -1,9 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
 html,
 body {
   padding: 0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  /*animation: fadein 1.5s; /* Padrão */
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+  background-color: #f2f2f2;
 }
 
 a {
@@ -14,3 +31,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+@media(max-width: 1024px){
+  html{
+      font-size: 55%;
+  }
+}
+
+@media(max-width: 965px){
+  html{
+      font-size: 50%;
+  }
+}
+
+ /* @keyframes fadein {
+  from {opacity: 0.1; }
+  to { opacity: 1; } 
+  }  */
