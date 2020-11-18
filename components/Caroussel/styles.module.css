@@ -1,5 +1,7 @@
 .caroussel{
     margin: 0 auto;
+    overflow: hidden;
+    height: 500px;
 }
 
 .caroussel img{
