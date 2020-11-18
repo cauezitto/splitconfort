@@ -109,13 +109,15 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
         </Wrapper>
 
         <section className = {styles.brands_section}>
+          <Wrapper>
           <div className = {styles.wrapper_container} >
           <h2>
               Somos credenciados por <br/> grandes marcas como <br/> LG, Samsung, Fugitsu e <br/> muito <a href = '#' > <span><img src="/plus.svg" alt="mais" className = {styles.plus}/></span> </a>
-              </h2>
+          </h2>
 
               <img src="/greeAirHome.svg" alt="Ar condicionado gree" className = {styles.gree} />
           </div>
+          </Wrapper>
         </section>
 
         <Wrapper>

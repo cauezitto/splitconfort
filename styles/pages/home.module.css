@@ -138,15 +138,14 @@
   justify-content: space-between;
   width: 100%;
   max-width: 1600px;
-  padding: 0 15%;
 }
 
 #home .brands_section .wrapper_container h2 {
   color: #FFFFFF;
-  font-size: 3.7rem;
+  font-size: 3rem;
   font-weight: 300;
   line-height: 59px;
-  letter-spacing: 0.07em;
+  letter-spacing: 0.03em;
   font-style: normal;
 }
 
@@ -218,7 +217,8 @@
  background-position-x: left;
  background-position-y: center;
  background-size: cover;
- width: 100%;
+ width: 90%;
+ margin-right: 10px;
 
 }
 #home .contact_section .contact_title_container h4{
@@ -289,4 +289,125 @@
     width: 120px;
     height: 40px;
     border-radius: 50px;
+}
+
+@media(max-width: 768px){
+  #home .skills .skills_container, #home .services_container{
+    flex-direction: column;
+  }
+
+  #home .skills .skills_container .skill{
+    margin-bottom: 30px;
+    width: 200px;
+    margin: 30px 0;
+  }
+
+  #home .skills .skills_container .skill h2{
+    margin: 10px 0;
+   }
+
+  #home .skills .skills_container .skill br{
+   display: none;
+  }
+
+  #home .services_section p{
+    margin-top: 20px;
+  }
+
+  #home .services_container .service{
+    width: 100%;
+    margin: 30px 0;
+  }
+
+  #home .services_container .service .text_box{
+    padding-top: 10px;
+  }
+
+  #home .services_container .service .text_box p{
+    height: 100%;
+    margin-bottom: 15px;
+  }
+
+  #home .brands_section .wrapper_container{
+    flex-direction: column;
+    padding-bottom: 0;
+  }
+
+  #home .brands_section .wrapper_container h2{
+    font-size: 2.5rem;
+    line-height: normal;
+    width: 100%;
+  }
+
+  #home .brands_section .wrapper_container br{
+    display: none;
+   }
+
+  #home .brands_section .wrapper_container .gree{
+    width: 150px;
+    margin: auto;
+    margin-bottom: 0;
+    margin-right: 0;
+  }
+
+  #home .statistics_section{
+    margin-bottom: 30px;
+  }
+
+  #home .statistics_section .numbers_container{
+    width: 50%;
+  }
+
+  #home .statistics_section .numbers_container span{
+    font-size: 2rem;
+  }
+
+  #home .statistics_section .numbers_container h4{
+    font-size: 2rem;
+  }
+
+  #home .statistics_section img{
+    width: 50%;
+  }
+
+  #home .contact_section{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #home .contact_section{
+    margin: 30px 0;
+  }
+
+  #home .contact_section .contact_title_container{
+    background-image: none;
+    height: auto;
+  }
+
+  #home .contact_section .contact_title_container{
+    width: 100%;
+    text-align: center;
+  }
+
+  #home .contact_section .contact_title_container h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  #home .contact_section form{
+    width: 100%;
+  }
+}
+
+@media(max-width: 500px){
+  #home .skills h1{
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
 }

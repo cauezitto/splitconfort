@@ -1,9 +1,14 @@
 .caroussel{
     margin: 0 auto;
     overflow: hidden;
-    height: 500px;
+     animation: fadein 50ms;
 }
 
 .caroussel img{
     width: 100%;
 }
+
+@keyframes fadein {
+    from {opacity: 0.1; }
+    to { opacity: 1; } 
+    } 

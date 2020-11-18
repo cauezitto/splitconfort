@@ -8,3 +8,9 @@
     flex-direction: column;
     justify-content: center;
 }
+
+@media(max-width: 425px){
+    .wrapper{
+        padding: 0 10%;
+    }
+}

@@ -71,3 +71,14 @@
     font-size: 1.4rem;
     font-style: normal;
 }
+  
+
+@media(max-width: 768px){
+    .desktop_nav, .desktop_cta{
+        display: none;
+    }
+
+    .mobile{
+        display: unset;
+    }
+}
