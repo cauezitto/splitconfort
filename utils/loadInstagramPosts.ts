@@ -8,6 +8,10 @@ const loadPosts = async () => {
           }
     })
 
+    if(!response.data){
+        return []
+    }
+
     const posts = response.data.graphql.user.edge_owner_to_timeline_media.edges//[0].node.display_url
 
     let postsInfo = []

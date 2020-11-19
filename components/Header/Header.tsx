@@ -50,7 +50,7 @@ const Header = () => {
             <ul>
                 <li><Link href = '/' passHref><a>HOME</a></Link></li>
                 <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
-                <li><Link href = '#' passHref><a>AR CONDICIONADO</a></Link></li>
+                <li><Link href = '/ar-condicionado' passHref><a>AR CONDICIONADO</a></Link></li>
                 <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
                 <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
                 <li><Link href = '#' passHref><a>CONTATO</a></Link></li>
@@ -75,7 +75,7 @@ const Header = () => {
           <ul>
                   <li><Link href = '/' passHref><a>HOME</a></Link></li>
                   <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
-                  <li><Link href = '#' passHref><a>AR CONDICIONADO</a></Link></li>
+                  <li><Link href = '/ar-condicionado' passHref><a>AR CONDICIONADO</a></Link></li>
                   <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
                   <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
                   <li><Link href = '#' passHref><a>CONTATO</a></Link></li>

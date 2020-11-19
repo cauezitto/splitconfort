@@ -2,11 +2,18 @@ import React from 'react';
 
 import styles from './styles.module.css'
 
-const PageTitle = (props) => {
+interface Props{
+  background: string,
+  children: Element
+}
+
+const PageTitle = ({children, background}) => {
   return(
-      <section className = {styles.page_title_container} >
+      <section 
+        className = {styles.page_title_container}
+        style = {{backgroundImage: `url("${background}")`}} >
           <div className = {styles.overlay} >
-            {props.children}
+            {children}
           </div>
       </section>
   )

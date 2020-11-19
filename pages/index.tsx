@@ -125,7 +125,7 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
             <div className = {styles.numbers_container}>
               <div className = {styles.projects}>
                 <span>
-                  6640+
+                14.475+
                 </span>
 
                 <h4>
@@ -135,7 +135,7 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
 
               <div className = {styles.clients}>
                 <span>
-                  6640+
+                  4.825+
                 </span>
 
                 <h4>

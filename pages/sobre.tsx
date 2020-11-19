@@ -6,6 +6,8 @@ import Wrapper from "../components/Wrapper/Wrapper"
 import Caroussel from 'nuka-carousel';
 import {IoIosArrowForward, IoIosArrowBack} from 'react-icons/io'
 import { useState } from "react"
+import Footer from "../components/Footer"
+import Link from "next/link"
 
 const Sobre = () => {
     const [slideIndex, setSlideIndex] = useState(0)
@@ -18,7 +20,7 @@ const Sobre = () => {
         </Head>
 
         <Header/>
-        <PageTitle>
+        <PageTitle background = '/sobre.svg' >
             <h1>QUEM <br/>
             <b>SOMOS</b></h1>
         </PageTitle>
@@ -72,9 +74,9 @@ const Sobre = () => {
             </h2>
 
                 <div className = {styles.options_container} >
-                    <option onClick = {()=>{setSlideIndex(0)}} > HONESTIDADE </option>
-                    <option onClick = {()=>{setSlideIndex(1)}} > TRANSPARÊNCIA </option>
-                    <option onClick = {()=>{setSlideIndex(2)}} > SEGURANÇA </option>
+                    <option style = {{backgroundColor: slideIndex === 0? '#01D7FC': '#f2f2f2'}} onClick = {()=>{setSlideIndex(0)}} > HONESTIDADE </option>
+                    <option style = {{backgroundColor: slideIndex === 1? '#01D7FC': '#f2f2f2'}} onClick = {()=>{setSlideIndex(1)}} > TRANSPARÊNCIA </option>
+                    <option style = {{backgroundColor: slideIndex === 2? '#01D7FC': '#f2f2f2'}} onClick = {()=>{setSlideIndex(2)}} > SEGURANÇA </option>
                 </div>
 
                     <Caroussel 
@@ -132,16 +134,22 @@ const Sobre = () => {
            </Wrapper>
            </section>
 
-           <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-        </main>
+            <Wrapper>
+                <section className = {styles.go_to_portifolio} >
+                        <h2>
+                        CONHEÇA NOSSOS PRINCIPAIS <b>PARCEIROS</b>
+                        </h2>
+
+                        <Link href = '/portifolio' passHref>
+                            <a>
+                                CONHENCER
+                            </a>
+                        </Link>
+                </section>
+            </Wrapper>
+           </main>
+
+        <Footer />
     </div>
   )
 }
