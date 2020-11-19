@@ -9,7 +9,6 @@ export default function CarousselContainer() {
     return (
         <div className = {styles.caroussel} style={{ padding: `0 ${chevronWidth}px`}}>
             <Caroussel
-            height = {500} 
              autoplay
              autoplayInterval = {8000}
              renderCenterLeftControls={({ previousSlide }) => (
