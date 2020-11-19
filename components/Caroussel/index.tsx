@@ -7,7 +7,7 @@ export default function CarousselContainer() {
     const chevronWidth = 40;
 
     return (
-        <div className = {styles.caroussel} style={{ padding: `0 ${chevronWidth}px`}}>
+        <div className = {styles.caroussel}>
             <Caroussel
              autoplay
              autoplayInterval = {8000}

@@ -2,7 +2,7 @@
     margin: 0 auto;
     overflow: hidden;
     animation: fadein 50ms;
-    width: 100%;
+    width: 100vw;
     margin-bottom: 30px;
 }
 
