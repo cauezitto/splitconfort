@@ -48,8 +48,8 @@ const Header = () => {
             <img src="/logo.svg" alt="split confort logo" className = {styles.logo}/>
             <nav className = {styles.desktop_nav} >
             <ul>
-                <li><Link href = '#' passHref><a>HOME</a></Link></li>
-                <li><Link href = '#' passHref><a>SOBRE NÓS</a></Link></li>
+                <li><Link href = '/' passHref><a>HOME</a></Link></li>
+                <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
                 <li><Link href = '#' passHref><a>AR CONDICIONADO</a></Link></li>
                 <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
                 <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
@@ -73,8 +73,8 @@ const Header = () => {
       <div className = {menuStyle.menu_bar} >
         <nav style = {{height: show? 500: 0} }>
           <ul>
-                  <li><Link href = '#' passHref><a>HOME</a></Link></li>
-                  <li><Link href = '#' passHref><a>SOBRE NÓS</a></Link></li>
+                  <li><Link href = '/' passHref><a>HOME</a></Link></li>
+                  <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
                   <li><Link href = '#' passHref><a>AR CONDICIONADO</a></Link></li>
                   <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
                   <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
