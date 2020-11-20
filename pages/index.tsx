@@ -87,7 +87,7 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
                   <div className = {styles.text_box}>
                      <h3>INSTALAÇÃO<br/> <b>E INFRAESTRUTURA</b></h3>
                      <p>Elaboramos sua <b>instalação</b> do <br/> zero até a finalização conforme <br/> as normas <b>ABNT</b></p>
-                      <Link href = '#' passHref>
+                      <Link href = '/servicoas' passHref>
                          <a>CONHECER</a>
                       </Link> 
                   </div> 
@@ -98,7 +98,7 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
                   <div className = {styles.text_box}>
                      <h3>MANUTENÇÃO <br/> <b>AR CONDICIONADO</b></h3>
                      <p>Aumente a vida util do seu <br/> <b>ar condicionado!</b> vamos enviar um <b>especialista</b> até você</p>
-                      <Link href = '#' passHref>
+                      <Link href = '/servicos' passHref>
                          <a>CONHECER</a>
                       </Link> 
                   </div> 
