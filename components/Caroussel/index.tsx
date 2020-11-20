@@ -18,9 +18,8 @@ export default function CarousselContainer() {
                 <button style = {{display: 'none'}}  onClick={nextSlide}/>
             )}  >
                     <img src= '/banner.jpeg'/>
-                    <img src= '/banner.jpeg'/>
-                    <img src= '/banner.jpeg'/>
-                    <img src= '/banner.jpeg'/>
+                    <img src= '/banner2.png'/>
+                    {/* <img src= '/banner3.png'/> */}
             </Caroussel>
         </div>
     )
