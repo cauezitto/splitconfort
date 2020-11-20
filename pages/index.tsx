@@ -63,7 +63,7 @@ export default function Home() {
               </div>
             </div>
 
-            <Link href = '#' passHref>
+            <Link href = '/sobre' passHref>
               <a className = {styles.skills_cta} >
                 SOBRE NÓS
               </a>
@@ -112,7 +112,7 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
           <Wrapper>
           <div className = {styles.wrapper_container} >
           <h2>
-              Somos credenciados por <br/> grandes marcas como <br/> LG, Samsung, Fugitsu e <br/> muito <a href = '#' > <span><img src="/plus.svg" alt="mais" className = {styles.plus}/></span> </a>
+              Somos credenciados por <br/> grandes marcas como <br/> LG, Samsung, Fugitsu e <br/> muito <a href = '/ar-condicionado' > <span><img src="/plus.svg" alt="mais" className = {styles.plus}/></span> </a>
           </h2>
 
               <img src="/greeAirHome.svg" alt="Ar condicionado gree" className = {styles.gree} />

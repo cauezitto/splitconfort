@@ -18,8 +18,8 @@ const FormSection = () => {
                   </h3>
 
                   <div className = {styles.links_container} >
-                    <a href=""><FaFacebookF/></a>
-                    <a href=""><FaInstagram/></a>
+                    <a href="https://m.facebook.com/www.splitconfort.com.br/?ref=bookmarks"><FaFacebookF/></a>
+                    <a href="https://www.instagram.com/splitconfort/"><FaInstagram/></a>
                   </div>
               </div>
 
