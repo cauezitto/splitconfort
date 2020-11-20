@@ -1,0 +1,225 @@
+#servicos{
+
+}
+
+#servicos .laudo_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+    text-align: center;
+}
+
+.laudo_section h2{
+    margin: 20px 0;
+    font-size: 3.5rem;
+    letter-spacing: 0.2rem;
+}
+
+.skills, .skills_column{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.skills strong, .skills_column{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin: auto;
+    font-weight: 500;
+}
+
+.skills strong img, .skills_column img{
+    height: 30px;
+}
+
+.skills_column{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.skills_column strong{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.laudo_section p{
+    margin: 30px 0;
+    font-size: 2.2rem;
+
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.icon img{
+    width: 100%;
+}
+
+.maintenance_section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.maintenance_type_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.maintenance_type_container .icon{
+    margin-bottom: -110px;
+    z-index: 5;
+}
+
+.maintenance_type_container .text_box{
+    width: 320px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+    padding: 30px 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.text_box h2{
+    font-weight: 500;
+    font-size: 2.3rem;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.text_box h2 b{
+    color: #01D7FC;
+}
+
+.text_box p{
+    font-size: 1.8rem;
+}
+
+.maintenance_type_container .text_box a{
+    color: #01D7FC;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.instalation_section{
+    margin: 50px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.instalation_section .icon{
+    margin-bottom: -80px;
+    z-index: 5;
+}
+
+.instalation_section .text_box{
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: center;
+    padding: 30px 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.instalation_section .text_box p{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 2.2rem;
+    margin-bottom: 50px;
+}
+
+.video_section{
+    background-color: #010101;
+    padding: 50px 0;
+}
+
+.video_section h3{
+    color: #fff;
+    font-size: 5rem;
+    font-weight: 500;
+}
+
+.video_sub_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.video_sub_wrapper img{
+    height: 300px;
+    cursor: pointer;
+}
+
+@media(max-width: 768px){
+    .maintenance_section{
+        flex-direction: column;
+    }
+    .maintenance_type_container{
+        margin-bottom: 30px;
+    }
+
+    .video_sub_wrapper{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width: 450px){
+    .instalation_section .text_box{
+        height: 620px;
+    }
+
+    .instalation_section .skills{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .skills{
+        display: unset;
+        width: auto;
+        align-items: unset;
+        justify-content: unset;
+        text-align: left;
+    }
+
+    .skills strong{
+        align-items: left;
+        justify-content: left;
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+    .skills strong img{
+        width: 30px;
+        margin: 0;
+    }
+}
+

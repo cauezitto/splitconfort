@@ -45,14 +45,14 @@ const Header = () => {
           </div>
 
           <div className = {styles.navigation_container}>
-            <img src="/logo.svg" alt="split confort logo" className = {styles.logo}/>
+            <img src="/logo.png" alt="split confort logo" className = {styles.logo}/>
             <nav className = {styles.desktop_nav} >
             <ul>
                 <li><Link href = '/' passHref><a>HOME</a></Link></li>
                 <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
                 <li><Link href = '/ar-condicionado' passHref><a>AR CONDICIONADO</a></Link></li>
-                <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
-                <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
+                <li><Link href = '/servicos' passHref><a>SERVIÇOS</a></Link></li>
+                <li><Link href = '/portifolio' passHref><a>PORTIFÓLIO</a></Link></li>
                 <li><Link href = '#' passHref><a>CONTATO</a></Link></li>
               </ul>
             </nav>
@@ -76,8 +76,8 @@ const Header = () => {
                   <li><Link href = '/' passHref><a>HOME</a></Link></li>
                   <li><Link href = '/sobre' passHref><a>SOBRE NÓS</a></Link></li>
                   <li><Link href = '/ar-condicionado' passHref><a>AR CONDICIONADO</a></Link></li>
-                  <li><Link href = '#' passHref><a>SERVIÇOS</a></Link></li>
-                  <li><Link href = '#' passHref><a>PORTIFÓLIO</a></Link></li>
+                  <li><Link href = '/servicos' passHref><a>SERVIÇOS</a></Link></li>
+                  <li><Link href = '/portifolio' passHref><a>PORTIFÓLIO</a></Link></li>
                   <li><Link href = '#' passHref><a>CONTATO</a></Link></li>
                 </ul>
           </nav>

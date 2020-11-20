@@ -12,7 +12,7 @@ const InstagramSection = () => {
   }
 
   useEffect(()=>{
-    loadPostsData()
+    //loadPostsData()
   })
 
   return(
