@@ -54,11 +54,7 @@ const ArCondicionado = () => {
                         <div className = {styles.row}>
                             <img src="/splitWall.svg" alt="split wall"/>
                             <p>
-                                É o modelo mais comercializado no mercado atualmente. Por ser <b>econômico</b> e <b>discreto</b>, é a escolha ideal para <b>ambientes menores</b> como: <b>casas</b>, <b>pequenos comércios</b> e <b>escritórios</b> <br/> <strong>
-                      <img src="/check.svg" alt="check"/>
-                      &nbsp;
-                      Economia
-                    </strong>
+                                É o modelo mais comercializado no mercado atualmente. Por ser <b>econômico</b> e <b>discreto</b>, é a escolha ideal para <b>ambientes menores</b> como: <b>casas</b>, <b>pequenos comércios</b> e <b>escritórios</b> <br/>
                             </p>
                         </div>
                     </section>
