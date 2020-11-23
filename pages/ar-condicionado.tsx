@@ -8,6 +8,7 @@ import {IoIosArrowForward, IoIosArrowBack} from 'react-icons/io'
 import Caroussel from 'nuka-carousel' 
 import { useState } from "react"
 import Footer from "../components/Footer"
+import WhatsappButton from "../components/WhatsappButton"
 
 const ArCondicionado = () => {
   const chevronWidth = 40;
@@ -258,6 +259,7 @@ const ArCondicionado = () => {
           </main>
 
           <Footer/>
+          <WhatsappButton/>
       </div>
   )
 }

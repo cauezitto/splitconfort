@@ -8,6 +8,7 @@ import {IoIosArrowForward, IoIosArrowBack} from 'react-icons/io'
 import { useState } from "react"
 import Footer from "../components/Footer"
 import Link from "next/link"
+import WhatsappButton from "../components/WhatsappButton"
 
 const Sobre = () => {
     const [slideIndex, setSlideIndex] = useState(0)
@@ -150,6 +151,7 @@ const Sobre = () => {
            </main>
 
         <Footer />
+        <WhatsappButton/>
     </div>
   )
 }

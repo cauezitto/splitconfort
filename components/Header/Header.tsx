@@ -30,15 +30,15 @@ const Header = () => {
               </Link>
               </div>
 
-              <a href="tel:9535-27110">
+              <a href="tel:3427-3569">
                 <HiPhone size = '20' color = '#01d7fc'/>
-                2667-3338
+                11 3427-3569
               </a>
 
               -
 
-              <a href="tel:953527110">
-                9811-65512
+              <a href="tel:98116-5512">
+                11 98116-5512
               </a>
             </div>
 

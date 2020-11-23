@@ -4,6 +4,7 @@ import Footer from "../components/Footer"
 import Header from "../components/Header/Header"
 import PageTitle from "../components/PageTitle"
 import Wrapper from "../components/Wrapper/Wrapper"
+import WhatsappButton from "../components/WhatsappButton"
 
 const Contato = () => {
   return (
@@ -37,7 +38,7 @@ const Contato = () => {
                 </section>
             </Wrapper>
         </main>
-
+        <WhatsappButton/>
         <Footer/>
       </>
   )

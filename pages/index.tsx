@@ -7,6 +7,7 @@ import Wrapper from '../components/Wrapper/Wrapper'
 import Footer from '../components/Footer'
 
 import InstagramSection from '../components/InstagramSection'
+import WhatsappButton from '../components/WhatsappButton'
 
 
 export default function Home() {
@@ -188,8 +189,8 @@ Manutenção de ar condicionado Split, Multi Split, Split wall, Split cassete,<b
           <InstagramSection/>
         </Wrapper>
       </main>
-      
       <Footer/>
+      <WhatsappButton/>
     </div>
   )
 }

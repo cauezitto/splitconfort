@@ -11,6 +11,7 @@ import {IoMdArrowDropleft, IoMdArrowDropright} from 'react-icons/io'
 import styles from '../styles/pages/portifolio.module.css'
 import Footer from '../components/Footer';
 import Caroussel from 'nuka-carousel'
+import WhatsappButton from '../components/WhatsappButton';
 
 const Portifolio = () => {
   return(
@@ -111,6 +112,7 @@ const Portifolio = () => {
 
               <Footer/>
           </main>
+          <WhatsappButton/>
       </div>
   )
 }

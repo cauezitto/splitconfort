@@ -7,6 +7,7 @@ import styles from '../styles/pages/servicos.module.css'
 
 import FormSection from '../components/FormSection'
 import { useState } from "react"
+import WhatsappButton from "../components/WhatsappButton"
 
 const Servicos = () => {
   const [showModal, setShowModal] = useState(false)
@@ -190,6 +191,7 @@ const Servicos = () => {
             </Wrapper>
           </main>
           <Footer/>
+          <WhatsappButton/>
       </div>
   )
 }
