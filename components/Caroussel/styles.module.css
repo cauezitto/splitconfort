@@ -1,9 +1,13 @@
-.caroussel{
+.caroussel, .caroussel_mobile{
     margin: 0 auto;
     overflow: hidden;
     animation: fadein 50ms;
     width: 100vw;
     margin-bottom: 30px;
+}
+
+.caroussel_mobile{
+    display: none;
 }
 
 /* .caroussel img{
@@ -14,3 +18,13 @@
     from {opacity: 0.1; }
     to { opacity: 1; } 
     } 
+
+@media(max-width:450px){
+    .caroussel_mobile{
+        display: unset;
+    }
+
+    .caroussel{
+        display: none;
+    }
+}
