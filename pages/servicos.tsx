@@ -6,14 +6,17 @@ import Wrapper from "../components/Wrapper/Wrapper"
 import styles from '../styles/pages/servicos.module.css'
 
 import FormSection from '../components/FormSection'
+import { useState } from "react"
 
 const Servicos = () => {
+  const [showModal, setShowModal] = useState(false)
   return (
       <div id = {styles.servicos} >
           <Head>
               <title>
                   Serviços
               </title>
+              <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
           </Head>
 
           <Header/>
@@ -171,7 +174,13 @@ const Servicos = () => {
                       CLIQUE NO <br/> PLAYER E <br/> VEJA O VIDEO
                     </h3>
 
-                    <img src="/notebook.svg" alt="notebook"/>
+                    {
+                      showModal?(
+                        <video src="/video.mp4" style = {{height: 300, width: 'auto', maxWidth: '100%', transition:'250ms ease-in-out'}} autoPlay onEnded = {()=>{setShowModal(false)}} controls/>
+                      ):(
+                        <img src="/notebook.svg" alt="notebook" onClick = {() =>{setShowModal(true)}} />
+                      )
+                    }
                   </div>
               </Wrapper>
             </section>

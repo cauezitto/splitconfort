@@ -171,7 +171,7 @@
     justify-content: space-between;
 }
 
-.video_sub_wrapper img{
+.video_sub_wrapper img, .video_sub_wrapper video{
     height: 300px;
     cursor: pointer;
 }
