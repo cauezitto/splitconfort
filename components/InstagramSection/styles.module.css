@@ -43,9 +43,29 @@
     border: 2px #28989E solid;
   }
 
+  .mobile{
+      display: none;
+  }
 @media(max-width:450px){
       .instagram_section h3{
           font-size: 2.3rem;
+    }
+
+    .instagram_section .posts{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .instagram_section a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+   
+
+    .mobile img{
+        border-radius: 10px;
     }
 }
 

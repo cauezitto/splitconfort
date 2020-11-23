@@ -10,6 +10,7 @@ import InstagramSection from '../components/InstagramSection'
 
 
 export default function Home() {
+  
   return (
     <div id = {styles.home}>
       <Head>

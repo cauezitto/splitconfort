@@ -1,0 +1,1093 @@
+{
+    "logging_page_id": "profilePage_2095497856",
+    "show_suggested_profiles": false,
+    "show_follow_dialog": false,
+    "graphql": {
+      "user": {
+        "biography": "Somos especializado em climatização.\nEntre em contato conosco\n📲 11 981165512 - consultoria online",
+        "blocked_by_viewer": false,
+        "restricted_by_viewer": false,
+        "country_block": false,
+        "external_url": "http://www.splitconfort.com.br/",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=http%3A%2F%2Fwww.splitconfort.com.br%2F&e=ATM1VDDRB0glE5DVI3VkkA27sMG_HkuBdH5LWzwIN36qVl40n2q39ydE3Z-vYwQV4ZAfQMTFc0WrOrtagnT7Pog&s=1",
+        "edge_followed_by": {
+          "count": 154
+        },
+        "followed_by_viewer": false,
+        "edge_follow": {
+          "count": 27
+        },
+        "follows_viewer": false,
+        "full_name": "SPLIT CONFORT",
+        "has_ar_effects": false,
+        "has_clips": false,
+        "has_guides": false,
+        "has_channel": false,
+        "has_blocked_viewer": false,
+        "highlight_reel_count": 5,
+        "has_requested_viewer": false,
+        "id": "2095497856",
+        "is_business_account": true,
+        "is_joined_recently": false,
+        "business_category_name": "Home Services",
+        "overall_category_name": null,
+        "category_enum": "COMPANY",
+        "is_private": false,
+        "is_verified": false,
+        "edge_mutual_followed_by": {
+          "count": 0,
+          "edges": [
+            
+          ]
+        },
+        "profile_pic_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-19/s150x150/22158653_468944020158239_8432213269652963328_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_ohc=XyKtJJAEHdAAX-ZRIiB&tp=1&oh=9c85485a6384c19deb14b9064ebdc8d0&oe=5FE412C7",
+        "profile_pic_url_hd": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-19/s320x320/22158653_468944020158239_8432213269652963328_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_ohc=XyKtJJAEHdAAX-ZRIiB&tp=1&oh=60afef3452ded819b09031d319707106&oe=5FE43FB7",
+        "requested_by_viewer": false,
+        "username": "splitconfort",
+        "connected_fb_page": null,
+        "edge_felix_video_timeline": {
+          "count": 0,
+          "page_info": {
+            "has_next_page": false,
+            "end_cursor": null
+          },
+          "edges": [
+            
+          ]
+        },
+        "edge_owner_to_timeline_media": {
+          "count": 73,
+          "page_info": {
+            "has_next_page": true,
+            "end_cursor": "QVFDbUxHRWdqUTNBNWN5TmVhN0ZVbEJIaTh2OTE3Z3E1b2ZWdFd3a21DNlQ3Nmp6enZselNFblBVRHJlbkF6QUVZWmxwb0JFSUl6SW9VNUJjb2piZ0ZlbA=="
+          },
+          "edges": [
+            {
+              "node": {
+                "__typename": "GraphVideo",
+                "id": "2403792541798630034",
+                "shortcode": "CFb_JS3pAKS",
+                "dimensions": {
+                  "height": 352,
+                  "width": 640
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=0ffb20c7c5c2904fd9dc856b8a7bd1ed&oe=5FBE3403",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoX6SimSLvUjkfQ4PHPWs/ypiOkn/f0f4UEmnRWcI5TnIkGSDxIDjtxx6cn6U3ypuuJP+/o/wAKBmnRVe2jZAS27JPRmDflgd6sUxBRRRQAUUUUAFFFFAH/2Q==",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": true,
+                "accessibility_caption": null,
+                "dash_info": {
+                  "is_dash_eligible": true,
+                  "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M40.008S\" maxSegmentDuration=\"PT0H0M2.043S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M40.008S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"640\" maxHeight=\"352\" maxFrameRate=\"30\" par=\"640:352\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18077249221216517vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"640\" height=\"352\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"138425\" FBQualityClass=\"sd\" FBQualityLabel=\"640w\" FBPlaybackResolutionMos=\"0:100.00,480:89.17,640:88.11\">\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/119962992_824387368335623_5188792280074055357_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=111&amp;_nc_ohc=aVmCoMakOaYAX8V0u-X&amp;oh=48942a7cd40288827f78745c37fe8985&amp;oe=5FBE32D0</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"909-1180\" FBFirstSegmentRange=\"1181-39994\" FBSecondSegmentRange=\"39995-75954\" FBPrefetchSegmentRange=\"1181-75954\">\n      <Initialization range=\"0-908\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"18077249215216517ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.29\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"50329\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"1\"/>\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/119963652_1960157694132354_6963952991415978391_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=SlT6KvyVtAIAX8QqCxW&amp;oh=69b3989b6fbe42a20e76425d8e1f9b0f&amp;oe=5FBE83B9</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"868-1151\" FBFirstSegmentRange=\"1152-9934\" FBSecondSegmentRange=\"9935-19266\" FBPrefetchSegmentRange=\"1152-19266\">\n      <Initialization range=\"0-867\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                  "number_of_qualities": 1
+                },
+                "has_audio": true,
+                "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI5OTZlMTI3YWNlNGVlZDlkOWJhMTMzYWEwYWE3YWUyNDAzNzkyNTQxNzk4NjMwMDM0Iiwic2VydmVyX3Rva2VuIjoiMTYwNjE2OTk0ODEwMHwyNDAzNzkyNTQxNzk4NjMwMDM0fDM1MTE5MzE1Mzg3fGZlNDc2Zjc3ZDZmYmFjZWI2YjFkZGYyMWZkMmU4M2Y2ZDUwODBjNzJiNGIwZmIxYzg4ZjE1M2YyZDU1MDgwNWQifSwic2lnbmF0dXJlIjoiIn0=",
+                "video_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/119740505_267419894711663_7755335534933834026_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=a04GQjC_r4AAX9CiIMR&oe=5FBE7BC4&oh=ece28c510c47aaa053d29774a38b94ed",
+                "video_view_count": 17,
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "A limpeza do ar condicionado está entre os principais cuidados da manutenção preventiva. Eliminando uma série de prejuízos e a eliminação de aspectos que podem causar problemas.\n\nAgende uma visita técnica ou entre em contato conosco. \n\n📲 11 981165512\n\n#splitconfort#arcondicionado#manutenção"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 1
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1600774446,
+                "edge_liked_by": {
+                  "count": 4
+                },
+                "edge_media_preview_like": {
+                  "count": 4
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=6622386203c4e6286f00613396e13449&oe=5FBE4C99",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s150x150/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=e6825aa77ad0ca7565d4a8db82f22cd7&oe=5FBE7029",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s240x240/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=497f0537b36269cb9e52c7f7109f8797&oe=5FBE56A1",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s320x320/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=3d2d10f9c648a0d249ec678792792b99&oe=5FBEB6C0",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=6622386203c4e6286f00613396e13449&oe=5FBE4C99",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/119790298_1669671959876355_1770987942993497486_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=gDHQRmI7X2oAX_8GyyG&tp=1&oh=6622386203c4e6286f00613396e13449&oe=5FBE4C99",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "felix_profile_grid_crop": null,
+                "product_type": "feed"
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2371979582655410688",
+                "shortcode": "CDq9tz2p7IA",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=98d80c432cfd0242799cc806f841545d&oe=5FE5F071",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoq6OqTalbqSC/Tg4B7e+KkuVIjd1yWCnA98YFctIq7MLIGYsFYDPJPBxkDI9xx2xgg1WhGvb8f+AdN/aEH97r7H601tTt14LY/A1yJBPUk4znmm7R3zj/62aNA162O8R1kUMpyrDII706sjRGLW+D/AAuQPpwf5k1r0hle7JWByOoUn9K5GK5cR+Wq5K5IbAyoPUgkZH1B/I81114MwSY/uN/KuIjXewUcE9Op57dOeaaAtxFo1AMQf3I69f8AH17CleYqPmiRc98dPpUiWceM/M568kIOme/JzkdPwqtdRqhG3ABHYk8/U/XH4UAb+hf6hv8AfP8AIVs1j6H/AKg/75/kK2KQARkYPQ1yN3p8lo+9AWjByCOo9jjkfWuuooGciLpIwfl3k/d45UduSDyvQdajSGW8O2NWwWLZbhRn8Og9BkmuzwKKdxWK9tbrbRiJeQvf1Pc/ianoopDP/9k=",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on August 09, 2020. A imagem pode conter: texto que diz \"FELIZ DIA DOS PAIS බ SPLIT CONFORT AR CONDICIONADO FATHERS DAY\".",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "A Split Confort deseja a todos papais um excelente dia.\n#felizdiadospais"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1596982022,
+                "edge_liked_by": {
+                  "count": 3
+                },
+                "edge_media_preview_like": {
+                  "count": 3
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=43cb35bd09471953d134af431217d2b7&oe=5FE6F7CB",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=36efb9fa0e7df3ff414e8b26b2dedb90&oe=5FE76550",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=a53786b3187f7306fae8854a5e70071f&oe=5FE797CA",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=f80b13cea8ba1eee940e884d7508ff48&oe=5FE67238",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=19ce498f999ca971fb84cc852fa582b5&oe=5FE6D871",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117174726_741167066721527_7618491513028784019_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=kukRfsQF5fMAX9IeKBn&tp=1&oh=43cb35bd09471953d134af431217d2b7&oe=5FE6F7CB",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2349821878226905825",
+                "shortcode": "CCcPoxhJ-rh",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=0608ccfd2910bcb86b6d19e5115636a6&oe=5FE6A171",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoq6E8VEWNTtUNMkrTscde/YmqLO3qfzNWJwFX/AIF0qoTmmGw63LHkljj3NayE7R9BWVb9DWon3R9BQBI6uWyGAXHTHOe5z/SowGDcng8Y9/8APalcu2QOCPTgHuDkgn2OM4qNYTuDEjIx0GT+Zz/SkBzD3Slyx3ZyR/D6077ano35r/hSRKGDqApJySWbGCSQMduOpzye1RJbmTPlgMAcA5Az+fb0pgWo9QSMfdY/iK6CGQPGrYI3KD+Yrk5bd413EDH1B/LkmumtP9TH/uL/AOgigZommd6kxSYFIRwpkAONoOCeecnJPXmjzR/cT9f8a3zbxZPyL1/uj/Ck+zxf3F/75H+FMZgmRcEbFGe/P+NdTaf6mP8A3F/9BFVPs8X9xf8Avkf4VrRKAigAAADt7UgP/9k=",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on July 09, 2020. Nenhuma descrição de foto disponível..",
+                "edge_media_to_caption": {
+                  "edges": [
+                    
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 1
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1594340618,
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=ba9bcf6191c21f7f068e339bba36bf6d&oe=5FE6DE4B",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=d127deae6dbcf8249ab614bbc8f254a9&oe=5FE5E9D0",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=3313ab690dcc32c05d16aaaa1b8afba8&oe=5FE52DCA",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=e304efd8be888878722d0a4fc808eb2c&oe=5FE7B538",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=d7855705648594ba7f0d50fc09d98506&oe=5FE3E371",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/106721148_601454787456894_1668997127135082368_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=R961oXufK1UAX_jqT7q&tp=1&oh=ba9bcf6191c21f7f068e339bba36bf6d&oe=5FE6DE4B",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2345494825075500793",
+                "shortcode": "CCM3x3PJGb5",
+                "dimensions": {
+                  "height": 610,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=2e428e817c92292cf00e5b4b9bc03047&oe=5FE6B080",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoX3XQvx0Hscf0piSLv8tWUsOq7ufyxUB1OBXaPJLqSMY6sOwPueBTLLTvIczMcu2TjsCeSB6896QGltPrj9aMH1/SlySSP1o59f0pgQ7H9aUOMdQahvHKrtB5YgenU4H6mpl+QBR0AwPwoA5SZSt+QO8gYfjg10kk/lsFXqeSPb1oopDRHeX4tk3AZJ4GemffvWaNdcEFlUr3xkH+Z/kaKKBCT30V9EcKwkHQA8A9jnjp16VZj1GXaN0QLYGTuHJxyaKKBn//Z",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on July 03, 2020. A imagem pode conter: uma ou mais pessoas e pessoas sentadas, texto que diz \"Split Confort **............... MAIS MAIS DE 12 ANOS CLIMATIZANDO AMBIENTES CERTIFICADO DE GARANTIA 100% EXPERIÊNCIA AGENDE SUA VISITA TÉCNICA 11 34273569 981165512 CONFORTO QUE VOCÊ MERECE!\".",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Nosso ambiente de trabalho seja na empresa ou home office tem que ser um ambiente agradável, aconchegante e nada melhor que um ar condicionado para climatizar o seu ambiente com a temperatura ideal ao seu gosto.\n\nDamos toda a consultoria técnica desde do atendimento telefônico, ao agendamento, vendas o aparelho e instalação.\n\nEntre em contato conosco\n📞 1134273569\n📲 11 981165512"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1593824793,
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=e3f4d31cc418ac40c6e495a18c9438ae&oe=5FE44AB1",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/s150x150/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=7613c7e1bfe171c970d5f2877a85a3f2&oe=5FE674A0",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/s240x240/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=94077c38c7dee5eb76585451c3f2db8b&oe=5FE4BD9A",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/s320x320/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=62472883b12b7dbab28b00e31a691a2e&oe=5FE70068",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=e3f4d31cc418ac40c6e495a18c9438ae&oe=5FE44AB1",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c172.0.449.449a/106218963_195129101904814_2205790427905389682_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dzXcx99JoSYAX9lrfMA&tp=1&oh=e3f4d31cc418ac40c6e495a18c9438ae&oe=5FE44AB1",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2344405418876791878",
+                "shortcode": "CCJAE6ppuxG",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=39a5d0d42d37b7afe3d99abc5501e491&oe=5FE793F2",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": null,
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on July 02, 2020. A imagem pode conter: texto.",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "A mais de 12 climatizando ambientes ❄️\n\n Entre em contato conosco\n📲 11 981165512\n📞 11 34273569"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1593694926,
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=2433d462e69abbb5506a774096394124&oe=5FE6174C",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=d4cd87519012f0aade941ac9b7b78196&oe=5FE4AA4F",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=2dd7543ce05d129de9d3014ab5009ccd&oe=5FE63949",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=e9b3538aae6793b080269e07b53eb78f&oe=5FE41B37",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=7b580db46e3a71eaba6be0527f85d4d8&oe=5FE54C72",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/106634778_721474895277565_6226575368392717769_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=fTxGIbm06QMAX_dqhBw&tp=1&oh=2433d462e69abbb5506a774096394124&oe=5FE6174C",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2343668069133818708",
+                "shortcode": "CCGYbEMJZtU",
+                "dimensions": {
+                  "height": 650,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=e877e2daa253ab8634bbf0808c3f08e9&oe=5FE69F45",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoZ3JWcA7doPbP+FIjMO+4n1I/oP0qpcXJV0KsNhPBHOe20j3PRuAK0hnGSMe1BJGRIeQQB6HNSANjnGfakJxj3OOtNUnc2c7RjB7e//wBfNAx6hu5p9NUgjI5B5Bp1AznbgCN8kfNGrFSD8p4yoA5xjkkHr6ms83rsQWfnv16joRjjgVfvfvfgf/Qafb/dP++//oRpITKCXpJAkdiP9liD+oxWib3907btqMdi5U59+M84HoRSXX+qb8P5irFv/qx9W/8AQjVCMWO7kjOVfsAeew9M9q1k1B9ozg8Dn196ln+6P99P/QhWTL99vqf50Af/2Q==",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on July 01, 2020. A imagem pode conter: 1 pessoa, sentando.",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "A mais de 12 anos climatizando ambientes ❄️\n\nSomos uma empresa especializada em climatização ❄️ \n\nTrabalho em home office com todo o conforto de um ar condicionado.\nPodendo manter o clima do seu ambiente sempre de acordo com o seu gosto.\n\nAgende sua visita técnica\n🚗 11 34273569\nConsultoria técnica \n📲 11 981165512"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1593607027,
+                "edge_liked_by": {
+                  "count": 4
+                },
+                "edge_media_preview_like": {
+                  "count": 4
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=3f8fd0c3e11db261d19604a3136ac049&oe=5FE44EDF",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/s150x150/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=2dad053ab3d6498889ac614df634af54&oe=5FE48F23",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/s240x240/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=6522450e4ca770bb9d4a94fa3730ba03&oe=5FE50325",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/s320x320/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=fc18d4e35bf0988d1fa4525716ed80b2&oe=5FE586DB",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/s480x480/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=f398bc67f90497d66f77270a21c22b89&oe=5FE66B9E",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c195.0.591.591a/105990662_284981789416425_5015681222428712121_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=PSivd2j-easAX-OI4lX&tp=1&oh=3f8fd0c3e11db261d19604a3136ac049&oe=5FE44EDF",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2342928567193012443",
+                "shortcode": "CCDwR5Vp4jb",
+                "dimensions": {
+                  "height": 565,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=0900ccd46148664243f5cfb5c58a055e&oe=5FE48369",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoV2WIBwKXcPVeP9qkZwBkDPOP84pgmxxtP5H/CrsyCxWdLclm2LkAEj6//AFvb8avRzbjtwR+B/wAKpy2ao2QcDqARnkn26jP5etS0y4tdRqRgR+YCT2I6Dj074pwmmAwOn1FWTEvlhF5Gec9fr9aeIVAx198VNjTmXX8R3lKfUfQkUeSOxI/E/wCNFFaXZhYXySP4j+Z/xp+0nqR+X/16KKVwsNKZbrUmKKKQI//Z",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on June 30, 2020. A imagem pode conter: texto.",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Respire ar puro❄️\nA falta de manutenção pode causar uma série de problemas a sua saúde.\n\nDiga adeus às bactérias\naos fungos.\n\nDeixe seu ambiente climatizado com saúde.\n\nA importância de realizar a manutenção preventiva no seu ar condicionado.\n\nLaudo Anvisa \n\nEntre em contato conosco\n📲 11 34273569 \n📲 11 981165512"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1593518871,
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=dbb9d787486d346b1ff98b66e1ca42be&oe=5FE4182E",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/s150x150/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=201e830a0be72febc22a61a5d4a38df6&oe=5FE51770",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/s240x240/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=e8d4a90218995690896eca17ba3ce4ac&oe=5FE3DC6A",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/s320x320/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=072d9535c5a590af8566cab417408c60&oe=5FE74998",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/s480x480/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=791a0a745244fd828d3caa917a738fe9&oe=5FE493D1",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c257.0.565.565a/105987203_176995540478918_8734377345129646651_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f1ZAXaFmsAAAX_rWbOH&tp=1&oh=dbb9d787486d346b1ff98b66e1ca42be&oe=5FE4182E",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2342454007187847763",
+                "shortcode": "CCCEYI5HzpT",
+                "dimensions": {
+                  "height": 718,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=9e2dac0fc1e2bf125e66fc04a1b41852&oe=5FE457E6",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACob3lIpWJ7EUzylA4HOOKhBlA7flVEj1D5yzdzjHA68cc9uuSanG7POMVErjGJDhsFuOABnHXGP6mpkwRkHIPekAjUlLkMM/wA+P50YFMCqC7j7wB9V/kfWpAXJJHQe/wDn/PFRJ1/GnZ+Vh/tY/PGaYra3KNzAuDcLukc4O3cQD2PT/PFXoWJUE8YHSmiNfQflTgo9B+VSUSeYS4HXIyfSpqiHHA4pKYj/2Q==",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on June 29, 2020. A imagem pode conter: 3 pessoas, pessoas sentadas, texto que diz \"* Split Confort CONDICIONADO CLIMATIZAR MBIENTES FONE:1134273569 11981165512 -splitconfort@gmail.com SERVICOS DE INSTALAÇÃO Instalamos diferentes tipos de condicionado.\".",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "❄️ Climatizando Ambientes\n💯 Experiência em climatização.\n💯 Experiência em instalação\n💯 Experiência em manutenção 📲 Agende sua visita técnica \n11 981165512\n11 3427 3569\nAqui quem faz o clima é você"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1593462299,
+                "edge_liked_by": {
+                  "count": 2
+                },
+                "edge_media_preview_like": {
+                  "count": 2
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c181.0.718.718a/s640x640/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=4a4d0ce873c9b18df9a1153d9118e212&oe=5FE4EFCD",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c181.0.718.718a/s150x150/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=f51df194677a8db1a0f3b230cd336fa2&oe=5FE4528C",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c181.0.718.718a/s240x240/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=af66ba1f7f46abefe4421af13012dd29&oe=5FE7220E",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c181.0.718.718a/s320x320/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=ad13400d11a9226b0cb0e83cfe9b0e26&oe=5FE6BBF4",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c181.0.718.718a/s480x480/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=004a8802af3714ecc416863796cb345a&oe=5FE76735",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c181.0.718.718a/s640x640/106174103_963100950794469_3931851336921978047_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=odSfcHIiVpEAX_pQ7FJ&tp=1&oh=4a4d0ce873c9b18df9a1153d9118e212&oe=5FE4EFCD",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphVideo",
+                "id": "2327664753894207968",
+                "shortcode": "CBNhsLcD7Hg",
+                "dimensions": {
+                  "height": 352,
+                  "width": 640
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=98107de233695d5589dd5a6c7b41a99a&oe=5FBECA27",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoX6SimSLvUjkfQ4PHPWs/ypiOkn/f0f4UEmnRWcI5TnIkGSDxIDjtxx6cn6U3ypuuJP+/o/wAKBmnRVe2jZAS27JPRmDflgd6sUxBRRRQAUUUUAFFFFAH/2Q==",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": true,
+                "accessibility_caption": null,
+                "dash_info": {
+                  "is_dash_eligible": true,
+                  "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M40.008S\" maxSegmentDuration=\"PT0H0M2.020S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M40.008S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"640\" maxHeight=\"352\" maxFrameRate=\"30\" par=\"640:352\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17844890969187975vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"640\" height=\"352\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"146152\" FBQualityClass=\"sd\" FBQualityLabel=\"640w\" FBPlaybackResolutionMos=\"0:100.00,480:90.50,640:89.50\">\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/101826500_2746730812222687_170316653113949224_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=3Wie8XtPchUAX-DXJEL&amp;oh=dbb081463ab55d9567da80159853182d&amp;oe=5FBE77DF</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"909-1180\" FBFirstSegmentRange=\"1181-47932\" FBSecondSegmentRange=\"47933-89654\" FBPrefetchSegmentRange=\"1181-89654\">\n      <Initialization range=\"0-908\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17844890957187975ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"66404\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/102539667_278871720151656_7897560169136972187_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=OdI7pjMjuwkAX_sez28&amp;oh=9f613a0ebec071cd915b1c04f0c598b5&amp;oe=5FBE4812</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1149\" FBFirstSegmentRange=\"1150-18250\" FBSecondSegmentRange=\"18251-34859\" FBPrefetchSegmentRange=\"1150-34859\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                  "number_of_qualities": 1
+                },
+                "has_audio": true,
+                "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI5OTZlMTI3YWNlNGVlZDlkOWJhMTMzYWEwYWE3YWUyMzI3NjY0NzUzODk0MjA3OTY4Iiwic2VydmVyX3Rva2VuIjoiMTYwNjE2OTk0ODEwMXwyMzI3NjY0NzUzODk0MjA3OTY4fDM1MTE5MzE1Mzg3fDYyMzc5NDkxNDdkYzYwNmM5NGViYWQ2MGU1NDZiNTE1MzNhN2MzNjQzNmE2NzcxNDRhYzc0MWRmZjBiMmFiZDYifSwic2lnbmF0dXJlIjoiIn0=",
+                "video_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/101826500_2746730812222687_170316653113949224_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjY0MC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=3Wie8XtPchUAX-DXJEL&vs=17844890969187975_2154810481&_nc_vs=HBksFQAYJEdNUy1FUWJmTEZzYUk4SUpBQ2k4TVBnWEZsMENia1lMQUFBRhUAAsgBABUAGCRHSk9oSEFab1N0SGhvZjBBQUp2aHJua2h4Wmx0YmtZTEFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMBUAACaO%2FpT7rfWyPxUCKAJDMywXQEPAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHAA%3D%3D&_nc_rid=62996aabe1&oe=5FBE77DF&oh=458f04135617ab1ed133aa77dea6bbb8",
+                "video_view_count": 6,
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Contratos comercial e residencial.\nÀs vantagens de sua empresa, do seu condomínio, da sua casa ter um contrato, entre em contato e veja às vantagens.\n📲 11981165512\n📞 11 34273569 💯% Experiência em climatização ❄️"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1591699309,
+                "edge_liked_by": {
+                  "count": 0
+                },
+                "edge_media_preview_like": {
+                  "count": 0
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=a7daf2252cb987490c4aae398ba17ddd&oe=5FBEB97D",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s150x150/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=f443ed4c653cacf705855a3f77747d99&oe=5FBE5CCD",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s240x240/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=a6572c087be304f6db711575b48d95dd&oe=5FBE6685",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/s320x320/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=d3baa1c0379a85124b02ae978fa87b6e&oe=5FBEA99C",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=a7daf2252cb987490c4aae398ba17ddd&oe=5FBEB97D",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/c144.0.352.352a/102551790_2515270242069928_3628696762103186574_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=pzsA_61irIoAX82SXfN&tp=1&oh=a7daf2252cb987490c4aae398ba17ddd&oe=5FBEB97D",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "felix_profile_grid_crop": null,
+                "product_type": "feed"
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphVideo",
+                "id": "2327024520517186949",
+                "shortcode": "CBLQHjpDPWF",
+                "dimensions": {
+                  "height": 750,
+                  "width": 750
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=3ee8bbe32de506433093f355139c147b&oe=5FBE8E02",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoqxKKu28Kbd8pVA2du4FicdTgEYAPGe54FNngCyFVx90twcjpu4zzgjkZ5HTJxQIqUVIqhsfrz059PT3pGUAZ6H0zmgBlFSMAAfUHHWo6ALcMiF0LgEKoXB6cE9fTOevY9akm8qFSIg25xjLFeF7gBSck9C3THTrVCigC9FHEVG59vGTyODk8YxnjjjPOcjpT/ACbZThZCc5yeAMDpnIODyfrjA61nUUAXJ0hVTsYu3y9xjPOeMZ4x+veqdFJQAUUlFAC0UlFAC0UlFAH/2Q==",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": true,
+                "accessibility_caption": null,
+                "dash_info": {
+                  "is_dash_eligible": true,
+                  "video_dash_manifest": "<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" minBufferTime=\"PT1.500S\" type=\"static\" mediaPresentationDuration=\"PT0H0M31.068S\" maxSegmentDuration=\"PT0H0M2.500S\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011,http://dashif.org/guidelines/dash264\">\n <Period duration=\"PT0H0M31.068S\">\n  <AdaptationSet segmentAlignment=\"true\" maxWidth=\"720\" maxHeight=\"720\" maxFrameRate=\"30\" par=\"1:1\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17842783889233975vd\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"720\" height=\"720\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"273998\" FBQualityClass=\"hd\" FBQualityLabel=\"720w\" FBPlaybackResolutionMos=\"0:100.00,480:93.67,640:91.98,720:89.47\">\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/103602202_248678099753172_7855555946488658069_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=100&amp;_nc_ohc=dcO8BrHGyUYAX_TEsRi&amp;oh=7d9ddaca17c4f7a42ac6f8cf8420d296&amp;oe=5FBE8085</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"909-1120\" FBFirstSegmentRange=\"1121-41861\" FBSecondSegmentRange=\"41862-85697\" FBPrefetchSegmentRange=\"1121-85697\">\n      <Initialization range=\"0-908\"/>\n    </SegmentBase>\n   </Representation>\n  <Representation id=\"17842783904233975v\" mimeType=\"video/mp4\" codecs=\"avc1.4D401F\" width=\"366\" height=\"366\" frameRate=\"30\" sar=\"1:1\" startWithSAP=\"1\" bandwidth=\"105424\" FBQualityClass=\"sd\" FBQualityLabel=\"366w\" FBPlaybackResolutionMos=\"0:100.00,480:78.15,640:73.03,720:66.45\">\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/103746276_536973843637542_3526614323498121712_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=DZyYj3GQIHUAX_J75rU&amp;oh=7b88d6abb335b4d22d37096f7e6aa8d9&amp;oe=5FBE75A4</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"910-1121\" FBFirstSegmentRange=\"1122-17641\" FBSecondSegmentRange=\"17642-36276\" FBPrefetchSegmentRange=\"1122-36276\">\n      <Initialization range=\"0-909\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n <AdaptationSet segmentAlignment=\"true\" lang=\"und\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\">\n   <Representation id=\"17842783859233975ad\" mimeType=\"audio/mp4\" codecs=\"mp4a.40.2\" audioSamplingRate=\"44100\" startWithSAP=\"1\" bandwidth=\"66315\">\n    <AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/>\n    <BaseURL>https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/103553072_255357059248605_4002051197042523892_n.mp4?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=dc_-Xo7OcccAX9h8CE0&amp;oh=eb7932d7465b872ce2d3bee04f280f18&amp;oe=5FBED0AD</BaseURL>\n    <SegmentBase indexRangeExact=\"true\" indexRange=\"866-1089\" FBFirstSegmentRange=\"1090-18467\" FBSecondSegmentRange=\"18468-34906\" FBPrefetchSegmentRange=\"1090-34906\">\n      <Initialization range=\"0-865\"/>\n    </SegmentBase>\n   </Representation>\n  </AdaptationSet>\n </Period>\n</MPD>",
+                  "number_of_qualities": 2
+                },
+                "has_audio": true,
+                "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI5OTZlMTI3YWNlNGVlZDlkOWJhMTMzYWEwYWE3YWUyMzI3MDI0NTIwNTE3MTg2OTQ5Iiwic2VydmVyX3Rva2VuIjoiMTYwNjE2OTk0ODEwMnwyMzI3MDI0NTIwNTE3MTg2OTQ5fDM1MTE5MzE1Mzg3fDViYmQ1MjRjOTA0ODFlNzZlNDE4ZDUzMTA4OGU0ZjIwODgwNTMyMzEyMjRlODkwMjg0MTVhZTcwNTBiYmJkYWQifSwic2lnbmF0dXJlIjoiIn0=",
+                "video_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t50.2886-16/103602202_248678099753172_7855555946488658069_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=dcO8BrHGyUYAX_TEsRi&vs=17842783889233975_3268833151&_nc_vs=HBksFQAYJEdCcllMQWJVbU16aEtfSUFBSlg0cVVlRGlnUnRia1lMQUFBRhUAAsgBABUAGCRHREFZTEFiZHNjN3lQdWdBQVBSX3BTUmNKSW8zYmtZTEFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMBUAACbuvenw2vqxPxUCKAJDMywXQD6AAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHAA%3D%3D&_nc_rid=62996965d2&oe=5FBE8085&oh=4f3859d639bbfcf88ee952c0a21328ec",
+                "video_view_count": 8,
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "💯 de experiência em climatização!\nAgende seu horário\n📲 11 981165512\n📞 11 34273569"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1591622997,
+                "edge_liked_by": {
+                  "count": 2
+                },
+                "edge_media_preview_like": {
+                  "count": 2
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=97e48668f18480b8d04fc152265cf7d5&oe=5FBECA7C",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=0e20d652717d3ae8bacb8924b03880cc&oe=5FBEA3FF",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=b37bd2b242acb2ef53e7bdd352bbf29a&oe=5FBED0B9",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=38f9fddce03548318f9ca26cf35da765&oe=5FBE4A87",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=7be4677935dcc05590724a3d062cc5ee&oe=5FBED1C2",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102529095_185346069519297_6919092256263063552_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=UzREPndVxg4AX8qSQY7&tp=1&oh=97e48668f18480b8d04fc152265cf7d5&oe=5FBECA7C",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ],
+                "felix_profile_grid_crop": null,
+                "product_type": "feed"
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2326643523457478702",
+                "shortcode": "CBJ5fUepXAu",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=2591c165c6fcb189f2e8725070f941bb&oe=5FE7B06B",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoqpq5DvJJIyoHKgDJJOTwATgADqT04A5NJM251EUjEMpPBIxgE8jOAeDkDjGCMZqu8u2Q55CyM35nB/HgEVPcXSMD5SqrPwzANk56gA8LnvgnPTOKoRXWV2A+ZvfLN/jjH60ea5xhm5ODhmx/OrUUcagK6EkAZGR1yc878cjHbgAjvmpdkOcCMgY/vDJOf94AdufrwM5oAzmnkwMMw/wCBN6/Wt+3djEhJP3V7n0FY10i4yibFGe/PPT+I9Oela9t/qk/3V/kKAKM1nB5jbpgCWOflzjJ6ZzT/ALBCP+WqHPTj9eG/nU0tq1vJ5uVYEt8oGcdTyf8APNOF2BjKgBv55x/OqVmQ2yhJBAowHDH/AGUJ/XOKZ5Uf+U/+yret58t83y7Tz+VXYZ1m5XOMA8j1o2DV9TlTbRt/Fj6L/wDZVuQQqI1AbOFHb2+tUblZd52YxuJxuA7n1Gen/wBatCFW2LkD7o7j0pOwK/cxplmdizEt1wQCfoP/ANXShFlPRjj3Q/XvV/pnHFBJpXYyqBOcjIwepKHmrcdy8K7SAAPRTjimk0A5pXuMf/aeerAfVDT1vnIH3fyFQFFPUA/hS7R6CgR//9k=",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on June 07, 2020. A imagem pode conter: texto que diz \"11 SPLIT CONFORT AR CONDICIONADO 11981165512 12 4273569 100% Experiência em climatização Agende sua visita técnica\".",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "Somos uma empresa especializada em climatização.\nInstalação, infraestrutura, manutenção preventiva e corretiva e vendas de aparelhos. 💯% de experiência ! 📲 11 981165512\n📞 11 34273569"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1591577543,
+                "edge_liked_by": {
+                  "count": 2
+                },
+                "edge_media_preview_like": {
+                  "count": 2
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=1adec2aa7bf53077db7bd40d738165a7&oe=5FE763F4",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=32cce0e9453f3f97de9fa14ec7db029b&oe=5FE70207",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=f1932f41fa109bbf4166eb7eb7c1c96a&oe=5FE5DC4F",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=6ba71e5d79332ebfbf974fe968af2abe&oe=5FE63592",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=2c3e0d5dd2893b5e6d45b48712a94438&oe=5FE44554",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102523584_2872663766194817_4355945103906957800_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=CWQEwgtrUykAX9la35F&tp=1&oh=1adec2aa7bf53077db7bd40d738165a7&oe=5FE763F4",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            },
+            {
+              "node": {
+                "__typename": "GraphImage",
+                "id": "2325123007861096178",
+                "shortcode": "CBEfw5-pf7y",
+                "dimensions": {
+                  "height": 1080,
+                  "width": 1080
+                },
+                "display_url": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=638523ebf9cc7f1443c424d91e6e9d09&oe=5FE62D4D",
+                "edge_media_to_tagged_user": {
+                  "edges": [
+                    
+                  ]
+                },
+                "fact_check_overall_rating": null,
+                "fact_check_information": null,
+                "gating_info": null,
+                "sharing_friction_info": {
+                  "should_have_sharing_friction": false,
+                  "bloks_app_url": null
+                },
+                "media_overlay_info": null,
+                "media_preview": "ACoq3dwPOe+KbFKJASARg9+/v/8Ar5ppVcntg5qCZxbJ1O0H8Tntn/PFN6CWpcznFKWC8HP5GoYJRMoIGPx6+9TMD7flSQMYZR7/AJGpQeKiIPt+VSDpTEc/HfXEsjqoUhSQTgcDJAyWYD6evaorm8uEbYwQ8ZwV545wRuI9+CQRyDVRmVn8tjhfNcsAcZ545+mQD2zUlwqwgtuaRtuxAVYbQeOSQOgJAAzzznFMY5dTmGMBB3HynA78c/pUh1i54+5z0+U/41Whtdygh1XIByffPfPboTjrx708WQzt8xCRgk+mffd7fmQO+aNAJG1icf3Dn/ZP+NbMN07xqxxllBPHqPrXL3EIiIAYP16DGMEj1Oc9fpW/bf6lP9xf5CgDnZ/9Y/8AvN/M0wAHqcfXNdI9vEWJKL1P8I9fpTfs8X9xf++R/hQBhgIB1Q49Q2T/AJ/CnAof+eY9sN+dbX2eL+4v/fI/wo+zxf3F/wC+R/hQBgS7f4dv/AQR/Ouitv8AVJ/uL/IUz7PF/cX/AL5H+FaUcahQAB0HYelAH//Z",
+                "owner": {
+                  "id": "2095497856",
+                  "username": "splitconfort"
+                },
+                "is_video": false,
+                "accessibility_caption": "Photo by SPLIT CONFORT on June 05, 2020. A imagem pode conter: 3 pessoas, texto que diz \"Visita especializada lizada em manutenção Levamos maparelho especiali izado para limpeza quimica alizado manut contr. condicionado EVITE AS ALERGIAS EM AMBIENTES CLIMATIZADOS Ofe ecemos serviços de manutençãoe higiênização condicionado. බ SPLIT CONFORT AR CONDICIONADO 11 34273569 11 981165512\".",
+                "edge_media_to_caption": {
+                  "edges": [
+                    {
+                      "node": {
+                        "text": "✅ Manutenção preventiva\n✅ Somos especializados em climatização.\n✅ Realizamos a manutenção preventiva conforme a Anvisa recomenda.\n✅ Laudo técnico de manutenção\n✅ Deixe seu ambiente climatizado com saúde.\n11 34273569 11 981165512"
+                      }
+                    }
+                  ]
+                },
+                "edge_media_to_comment": {
+                  "count": 0
+                },
+                "comments_disabled": false,
+                "taken_at_timestamp": 1591396283,
+                "edge_liked_by": {
+                  "count": 3
+                },
+                "edge_media_preview_like": {
+                  "count": 3
+                },
+                "location": null,
+                "thumbnail_src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=1367e8f2c8f2457c13085996838a6a2a&oe=5FE59077",
+                "thumbnail_resources": [
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=1874d345201e3b5ad84d4e4757a89609&oe=5FE4C874",
+                    "config_width": 150,
+                    "config_height": 150
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=5d3bfbd8880d8c7936ac1c7af370c17b&oe=5FE452F6",
+                    "config_width": 240,
+                    "config_height": 240
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=e978ac25237fee2a41309fa59abc3f23&oe=5FE4BA8C",
+                    "config_width": 320,
+                    "config_height": 320
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=fdefdb0496c0d202fc87d5a0667f10f1&oe=5FE75FCD",
+                    "config_width": 480,
+                    "config_height": 480
+                  },
+                  {
+                    "src": "https://instagram.fgru16-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/102299147_308429240165264_3322899824500458172_n.jpg?_nc_ht=instagram.fgru16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=AdySIwJW5hcAX9KQsjA&tp=1&oh=1367e8f2c8f2457c13085996838a6a2a&oe=5FE59077",
+                    "config_width": 640,
+                    "config_height": 640
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "edge_saved_media": {
+          "count": 0,
+          "page_info": {
+            "has_next_page": false,
+            "end_cursor": null
+          },
+          "edges": [
+            
+          ]
+        },
+        "edge_media_collections": {
+          "count": 0,
+          "page_info": {
+            "has_next_page": false,
+            "end_cursor": null
+          },
+          "edges": [
+            
+          ]
+        }
+      }
+    },
+    "toast_content_on_load": null,
+    "show_view_shop": false,
+    "profile_pic_edit_sync_props": null
+  }
