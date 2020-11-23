@@ -18,14 +18,14 @@ const Footer = () => {
 
             <ul>
               <li>
-                  <a href = 'tel:2667-3338' >
-                    <HiPhone/> &nbsp; (11) 2667-3338  
+                  <a href = 'tel:3427-3569' >
+                    <HiPhone/> &nbsp; (11) 3427-3569 
                   </a>
               </li>
 
               <li>
-                  <a href = 'tel:9811-65512' >
-                    <MdPhoneIphone/> &nbsp; (11)9811-65512  
+                  <a href = 'tel:98116-5512' >
+                    <MdPhoneIphone/> &nbsp; (11) 98116-5512 
                   </a>
               </li>
 
