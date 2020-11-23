@@ -17,9 +17,9 @@ export default function CarousselContainer() {
             renderCenterRightControls={({ nextSlide }) => (
                 <button style = {{display: 'none'}}  onClick={nextSlide}/>
             )}  >
-                    <img src= '/banner.jpeg'/>
-                    <img src= '/banner2.png'/>
-                    {/* <img src= '/banner3.png'/> */}
+                    <img src= '/banner1.svg'/>
+                    <img src= '/banner2.svg'/>
+                    <img src= '/banner3.svg'/>
             </Caroussel>
         </div>
     )

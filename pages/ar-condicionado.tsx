@@ -26,21 +26,18 @@ const ArCondicionado = () => {
           <PageTitle background = '/ar-condicionado.svg' >
                 <h1>
                     AR <br/>
-                    <b>CONDICIONADO</b>
+                    <b>CONDICIONADOS</b>
                 </h1>
             </PageTitle>
           <main>
             <Wrapper>
                 <section className = {styles.introduction_section} >
                     <h2>
-                        DESDE A INSTALAÇÃO A MANUTENÇÃO
+                        QUAL SISTEMA DE AR CONDICIONADO COMPRAR?
                     </h2>
 
                     <p>
-                    Através do laudo técnico transparete, você é informado sobre todos os detalhes das etapas a serem realizadas no seu projeto, 
-                    ou manutenção.
-
-                    Com a Split confort, você tem todo o conforto, segurança e tranquilidade que precisa em sua casa ou ambiente de trabalho.
+                        É preciso saber escolher bem o modelo de <b>ar condicionado</b> para não errar na compra. Veja aqui as nossas <b>recomendações</b> para você!
                     </p>
                 </section>
 
@@ -57,7 +54,11 @@ const ArCondicionado = () => {
                         <div className = {styles.row}>
                             <img src="/splitWall.svg" alt="split wall"/>
                             <p>
-                                Através do laudo técnico transparete, você é informado sobre todos os detalhes das etapas a serem realizadas no seu projeto, ou manutenção. Com a Split confort, você tem todo o conforto, segurança e tranquilidade que precisa em sua casa ou ambiente de trabalho.
+                                É o modelo mais comercializado no mercado atualmente. Por ser <b>econômico</b> e <b>discreto</b>, é a escolha ideal para <b>ambientes menores</b> como: <b>casas</b>, <b>pequenos comércios</b> e <b>escritórios</b> <br/> <strong>
+                      <img src="/check.svg" alt="check"/>
+                      &nbsp;
+                      Economia
+                    </strong>
                             </p>
                         </div>
                     </section>
@@ -70,7 +71,7 @@ const ArCondicionado = () => {
 
                         <div className = {styles.row}>
                             <p>
-                                Através do laudo técnico transparete, você é informado sobre todos os detalhes das etapas a serem realizadas no seu projeto, ou manutenção. Com a Split confort, você tem todo o conforto, segurança e tranquilidade que precisa em sua casa ou ambiente de trabalho.
+                                O <b>mult split</b> e o <b>split wall</b> são bem semelhantes. se você que ter o controle de <b>2 ou mais ambientes</b>, essa é a escolha certa para você
                             </p>
 
                             <img src="/multSplit.svg" alt="mult split"/>
@@ -88,7 +89,7 @@ const ArCondicionado = () => {
                             <img src="/splitCassete.svg" alt="split cassete"/>
                             
                             <p>
-                                Através do laudo técnico transparete, você é informado sobre todos os detalhes das etapas a serem realizadas no seu projeto, ou manutenção. Com a Split confort, você tem todo o conforto, segurança e tranquilidade que precisa em sua casa ou ambiente de trabalho.
+                               Por ficar <b>posicionado no teto</b> e ter um ótimo <b>controle do pluxo de ar</b>, o split cassete é ótimo para você que quer climatizar <b>ambientes de médio a grande porte</b> como por exemplo: <b>Salões de festas</b>, <b>salas de aula</b> e etc
                             </p>
 
                         </div>
@@ -103,7 +104,7 @@ const ArCondicionado = () => {
                         <div className = {styles.row}>
                             
                             <p>
-                                Através do laudo técnico transparete, você é informado sobre todos os detalhes das etapas a serem realizadas no seu projeto, ou manutenção. Com a Split confort, você tem todo o conforto, segurança e tranquilidade que precisa em sua casa ou ambiente de trabalho.
+                                O sistema <b>VRF</b> é um modelo unificado de refigração, que possibilita a refigeração integrada de edifícios como <b>Prédios</b>, <b>Universidades</b> e <b>Escolas</b>
                             </p>
 
                             <img src="/vrf.svg" alt="split wall"/>

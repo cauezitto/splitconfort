@@ -42,3 +42,15 @@
 .instagram_section .posts img:hover{
     border: 2px #28989E solid;
   }
+
+@media(max-width:450px){
+      .instagram_section h3{
+          font-size: 2.3rem;
+    }
+}
+
+@media(max-width:320px){
+    .instagram_section h3{
+        font-size: 1.8rem;
+  }
+}
