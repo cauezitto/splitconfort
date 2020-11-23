@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 
-import Caroussel from 'nuka-carousel';
+import Caroussel from 'nuka-carousel'
 import styles from './styles.module.css'
 
 export default function CarousselContainer() {
