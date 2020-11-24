@@ -18,9 +18,9 @@ export default function CarousselContainer() {
             renderCenterRightControls={({ nextSlide }) => (
                 <button style = {{display: 'none'}}  onClick={nextSlide}/>
             )}  >
-                    <img src= '/banner1.svg'/>
-                    <img src= '/banner2.svg'/>
-                    <img src= '/banner3.svg'/>
+                    <img src= '/banner1.svg' alt = 'técnico fazendo manutenção no ar condicionado e projetos, instalação e infraestrutura escrito ao lado' />
+                    <img src= '/banner2.svg' alt = 'técnico fazendo manutenção no ar condicionado e Manutenção de ar condicionados escrito ao lado' />
+                    <img src= '/banner3.svg' alt = 'técnico fazendo manutenção no ar condicionado e atendimento especializado escrito ao lado'/>
             </Caroussel>
         </div>
 
