@@ -15,7 +15,7 @@ const Servicos = () => {
       <div id = {styles.servicos} >
           <Head>
               <title>
-                  Serviços
+                  Manutenção e Instalação de ar condicionados em São Paulo - Split Confort
               </title>
                 <link rel="canonical" href="https://www.splitconfort.com.br/servicos"/>
                 <meta name="description" content="Conheça nossos parceiros" />
