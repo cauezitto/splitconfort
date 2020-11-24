@@ -16,8 +16,9 @@ export default function Home() {
     <div id = {styles.home}>
       <Head>
         <title>Manutenção de Ar Condicionado - Split Confort</title>
-        <link rel="icon" href="/favicon.ico" />
 
+        <link rel="canonical" href="https://www.splitconfort.com.br/"/>
+        <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Serviços de Manutenção de Ar Condicionado. Serviços de Manutenção de Ar Condicionado. Higienização de ar condicionados" />
         <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
         <meta name="language" content="PT-BR" />
