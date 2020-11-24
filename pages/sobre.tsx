@@ -19,6 +19,8 @@ const Sobre = () => {
                 Sobre Nós - Split Confort
             </title>
 
+            <link rel="canonical" href="https://www.splitconfort.com.br/sobre"/>
+
             <meta name="description" content="Quem somos = Split Confort Ar condicionados" />
             <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
             <meta name="language" content="PT-BR" />
