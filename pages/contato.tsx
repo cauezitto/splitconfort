@@ -12,8 +12,6 @@ const Contato = () => {
         <Head>
             <title>Contato Split Confort</title>
 
-            <link rel="canonical" href="https://www.splitconfort.com.br/contato"/>
-
             <meta name="description" content="qual ar condicionado comprar" />
             <meta name="keywords" content="Contato. Entre em contato conosco escolhendo qual a melhor forma, seja ela via telefone, e-mail ou nosso formulário!" />
             <meta name="language" content="PT-BR" />
