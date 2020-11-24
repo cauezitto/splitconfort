@@ -10,6 +10,18 @@ class MyDocument extends Document {
     return (
       <Html lang = 'pt-br' >
         <Head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PB2E19H3W8"/>
+          <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag('js', new Date());
+            
+                      gtag('config', 'G-PB2E19H3W8');
+                  `,
+              }}
+            />
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png"/>
         <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png"/>
         <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png"/>
