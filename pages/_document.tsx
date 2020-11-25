@@ -10,15 +10,15 @@ class MyDocument extends Document {
     return (
       <Html lang = 'pt-br' >
         <Head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PB2E19H3W8"/>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5N9K576EK"></script>
           <script
               dangerouslySetInnerHTML={{
                 __html: `
-                      window.dataLayer = window.dataLayer || [];
-                      function gtag(){dataLayer.push(arguments);}
-                      gtag('js', new Date());
-            
-                      gtag('config', 'G-PB2E19H3W8');
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+              
+                gtag('config', 'G-Y5N9K576EK');
                   `,
               }}
             />
@@ -39,6 +39,9 @@ class MyDocument extends Document {
         <meta name="msapplication-TileColor" content="#010101"/>
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
         <meta name="theme-color" content="#010101"/>
+        <meta property="og:site_name" content="Split Confort Ar condicionados"></meta>
+        <meta property="og:type" content="website"></meta>
+        <meta property="og:locale" content="pt_BR"></meta>
         </Head>
         <body>
           <Main />

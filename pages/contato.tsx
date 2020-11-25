@@ -10,7 +10,14 @@ const Contato = () => {
   return (
       <>
         <Head>
-            <title>Contato Split Confort</title>
+            <title>Entre em contato e solicite o seu orçamento - split confort</title>
+            <meta property="og:title" content="Entre em contato e solicite o seu orçamento - split confort"></meta>
+            <meta property="og:url" content="https://splitconfort.com.br/contato"></meta>
+            <meta property="og:description" content="Nossa equipe de atendimento entrará em contato o mais rápido possível. Faça agora o seu orçamento"></meta>
+            <meta property="og:image" content="https://splitconfort.com.br/contato.svg"/>
+            <meta property="og:image:type" content="image/svg"/>
+            <meta property="og:image:height" content="525"/> 
+            <meta property="og:image:width" content="1710"></meta>
 
             <link rel="canonical" href="https://splitconfort.com.br/contato"/>
 

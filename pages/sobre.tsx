@@ -20,8 +20,16 @@ const Sobre = () => {
             </title>
 
             <link rel="canonical" href="https://splitconfort.com.br/sobre"/>
+            <link rel="canonical" href="https://splitconfort.com.br/sobre"/>
+            <meta property="og:title" content="Manutenção e Instalação de ar condicionados em São Paulo - Seriços Split Confort"></meta>
+            <meta property="og:url" content="https://splitconfort.com.br/servicos"></meta>
+            <meta property="og:description" content="Serviços de Manutenção de Ar Condicionado. Serviços de Manutenção de Ar Condicionado. Higienização de ar condicionados"></meta>
+            <meta property="og:image" content="https://splitconfort.com.br/servicos.svg"/>
+            <meta property="og:image:type" content="image/svg"/>
+            <meta property="og:image:width" content="1710"/> 
+            <meta property="og:image:height" content="525"></meta>
 
-            <meta name="description" content="Quem somos = Split Confort Ar condicionados" />
+            <meta name="description" content="CONHEÇA NOSSOS 12 ANOS DE TRAJETORIA - Split Confort Ar condicionados" />
             <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
             <meta name="language" content="PT-BR" />
             <meta name="robots" content="index, follow" />

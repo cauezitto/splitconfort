@@ -22,8 +22,16 @@ const ArCondicionado = () => {
             </title>
 
             <link rel="canonical" href="https://splitconfort.com.br/ar-condicionado"/>
+            <meta property="og:title" content="Qual Ar condicionado comprar - Split Confort"></meta>
+            <meta property="og:url" content="https://splitconfort.com.br/ar-condicionado"></meta>
+            <meta property="og:description" content="Veja aqui nossas indicações de ar condicionados e escolha o melhor modelo para você"></meta>
+            <meta property="og:image" content="https://splitconfort.com.br/ar-condicionado.svg"/>
+            <meta property="og:image:type" content="image/svg"/>
+            <meta property="og:image:height" content="525"/> 
+            <meta property="og:image:width" content="1710"></meta>
 
-            <meta name="description" content="qual ar condicionado comprar" />
+
+            <meta name="description" content="Veja aqui nossas indicações de ar condicionados e escolha o melhor modelo para você" />
             <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
             <meta name="language" content="PT-BR" />
             <meta name="robots" content="index, follow" />
@@ -39,6 +47,7 @@ const ArCondicionado = () => {
             <meta name="publisher" content="Stonks.dev" />
             <meta name="copyright" content="Copyright Splitconfort" />
             <meta name="MSSmartTagsPreventParsing" content="true" />
+            
           </Head>
           
           <Header/>

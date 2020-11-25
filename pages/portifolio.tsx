@@ -18,12 +18,19 @@ const Portifolio = () => {
       <div>
           <Head>
               <title>
-                  Conheça Nossos Parceiros - Split Confort Ar condicionados
+                  Conheça Nossos Parceiros aqui no portifolio- Split Confort Ar condicionados
               </title>
 
               <link rel="canonical" href="https://splitconfort.com.br/portifolio"/>
+                <meta property="og:title" content="Conheça Nossos Parceiros aqui no portifolio- Split Confort Ar condicionados"></meta>
+                <meta property="og:url" content="https://splitconfort.com.br/portifolio"></meta>
+                <meta property="og:description" content="Com mais de 12 anos no mercado a splitconfort vem acumulando parceiros e conquistando confiança por onde passa. Conheça nosso portifolio"></meta>
+                <meta property="og:image" content="https://splitconfort.com.br/portifolio.svg"/>
+                <meta property="og:image:type" content="image/svg"/>
+                <meta property="og:image:width" content="1710"/> 
+                <meta property="og:image:height" content="525"></meta>
 
-                <meta name="description" content="Conheça nossos parceiros" />
+                <meta name="description" content="Com mais de 12 anos no mercado a splitconfort vem acumulando parceiros e conquistando confiança por onde passa. Conheça nosso portifolio" />
                 <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
                 <meta name="language" content="PT-BR" />
                 <meta name="robots" content="index, follow" />

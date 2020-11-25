@@ -15,9 +15,16 @@ export default function Home() {
   return (
     <div id = {styles.home}>
       <Head>
-        <title>Manutenção de Ar Condicionado - Split Confort</title>
+        <title>Instalação e Manutenção de Ar Condicionado - Split Confort</title>
 
         <link rel="canonical" href="https://splitconfort.com.br/"/>
+        <meta property="og:title" content="Instalação e Manutenção de Ar Condicionado - Split Confort"></meta>
+        <meta property="og:url" content="https://splitconfort.com.br/"></meta>
+        <meta property="og:description" content="Serviços de Manutenção de Ar Condicionado. Serviços de Manutenção de Ar Condicionado. Higienização de ar condicionados"></meta>
+        <meta property="og:image" content="https://splitconfort.com.br/banner1.svg"/>
+        <meta property="og:image:type" content="image/svg"/>
+        <meta property="og:image:width" content="1280"/> 
+        <meta property="og:image:height" content="355"></meta>
         
         <meta name="description" content="Serviços de Manutenção de Ar Condicionado. Serviços de Manutenção de Ar Condicionado. Higienização de ar condicionados" />
         <meta name="keywords" content="Manutenção de Ar Condicionado, manutenção de ar condicionado em sp, manutenção de ar condicionado em são paulo, serviço de manutenção de ar condicionado, empresa de manutenção de ar condicionado, preço de manutenção de ar condicionado, manutenção de ar condicionado onde encontrar, fazer manutenção de ar condicionado, manutenção e manutenção de ar condicionado, contrato de manutenção de ar condicionado, instalação e manutenção de ar condicionado" />
