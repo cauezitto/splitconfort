@@ -1,6 +1,20 @@
 import { FaFacebookF, FaInstagram } from 'react-icons/fa'
 import styles from './styles.module.css'
+import axios from 'axios'
 const FormSection = () => {
+  const handleSubmit = async (event:React.SyntheticEvent<HTMLFormElement>) =>{
+    event.preventDefault()
+    const data = {
+        nome: event.target[0].value,
+        tel: event.target[1].value,
+        mail: event.target[2].value,
+        text: event.target[3].value
+    }
+
+    await axios.post('/api/mail', data)
+    .then(()=>alert('Muito obrigado!, Entraremos em contato em breve'))
+}
+
   return(
       <section className = {styles.form_section} >
           <h2>
@@ -23,7 +37,7 @@ const FormSection = () => {
                   </div>
               </div>
 
-              <form action="/mail.php" method="post">
+              <form onSubmit={handleSubmit}>
               <label>Seu Nome ( * )<input type="text"/></label>
               <label>Seu Celular ( * )<input type="text"/></label>
               <label>Seu Email ( * )<input type="text"/></label>

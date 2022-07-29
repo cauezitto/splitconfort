@@ -4,13 +4,27 @@ import Header from "../components/Header/Header"
 import PageTitle from "../components/PageTitle"
 import Wrapper from "../components/Wrapper/Wrapper"
 import styles from '../styles/pages/servicos.module.css'
-
+import axios from "axios"
 import FormSection from '../components/FormSection'
 import { useState } from "react"
 import WhatsappButton from "../components/WhatsappButton"
 
 const Servicos = () => {
   const [showModal, setShowModal] = useState(false)
+
+  const handleSubmit = async (event:React.SyntheticEvent<HTMLFormElement>) =>{
+    event.preventDefault()
+    const data = {
+        nome: event.target[0].value,
+        tel: event.target[1].value,
+        mail: event.target[2].value,
+        text: event.target[3].value
+    }
+
+    await axios.post('/api/mail', data)
+    .then(()=>alert('Muito obrigado!, Entraremos em contato em breve'))
+}
+
   return (
       <div id = {styles.servicos} >
           <Head>
