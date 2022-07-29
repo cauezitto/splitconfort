@@ -8,6 +8,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
   let transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
+    service: 'gmail',
     port: 465,
     auth: {
       user: 'splitconfort@gmail.com', 
