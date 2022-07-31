@@ -21,9 +21,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   // create reusable transporter object using the default SMTP transport
   let transporter = nodemailer.createTransport({
     service: 'gmail',
-    host: "smtp.ethereal.email",
-    port: 587,
-    secure: false, // true for 465, false for other ports
     auth: {
       type: 'OAuth2',
       user: 'splitsendmail@gmail.com', // generated ethereal user
@@ -33,7 +30,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
       accessToken: accessToken
     }})
 
-  let info = await transporter.sendMail({
+  transporter.sendMail({
     from: '"Site Splitconfort" <splitsendmail@gmail.com>',
     to: "stonksdevsite@gmail.com",
     subject: "NOVO PEDIDO DE CONTATO",
