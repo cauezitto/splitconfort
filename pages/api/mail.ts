@@ -23,10 +23,14 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     host: "smtp.gmail.com",
     service: 'gmail',
     port: 465,
+    secure: false,
     auth: {
       user: 'splitconfort@gmail.com', 
       pass: 'maeprqammwnrdjqd', 
     },
+    tls:{
+      rejectUnauthorized: false
+    }
   });
 
   let info = await transporter.sendMail({

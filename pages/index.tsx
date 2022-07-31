@@ -9,7 +9,6 @@ import axios from 'axios'
 import InstagramSection from '../components/InstagramSection'
 import WhatsappButton from '../components/WhatsappButton'
 
-
 export default function Home() {
 
   const handleSubmit = async (event:React.SyntheticEvent<HTMLFormElement>) =>{
@@ -20,6 +19,8 @@ export default function Home() {
         mail: event.target[2].value,
         text: event.target[3].value
     }
+
+    // sendMail(data)
 
     await axios.post('/api/mail', data)
     .then(()=>alert('Muito obrigado!, Entraremos em contato em breve'))
