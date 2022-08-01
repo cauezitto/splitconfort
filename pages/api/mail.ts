@@ -10,7 +10,7 @@ const msg = {
   text: `${req.body.nome} ${req.body.email} ${req.body.tel} ${req.body.text}`,
   html: `${req.body.nome} <br/> ${req.body.mail} <br/> ${req.body.tel} <br/> ${req.body.text}`,
 }
-sendGrid
+await sendGrid
   .send(msg)
   .then(() => {
     console.log('Email sent')
