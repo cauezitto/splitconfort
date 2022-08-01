@@ -2,7 +2,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import sendGrid from '@sendgrid/mail'
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
-  sendGrid.setApiKey('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')
+  sendGrid.setApiKey(process.env.SENDGRIDKEY)
 const msg = {
   to: 'stonksdevsite@gmail.com', // Change to your recipient
   from: 'splitsendmail@gmail.com', // Change to your verified sender
